@@ -6,7 +6,7 @@ This project demonstrates the design and implementation of a complete Blue Team 
 
 The environment combines Active Directory, Windows endpoints, Kali Linux, Sysmon, Splunk Universal Forwarders, and Atomic Red Team to emulate common adversary techniques from the MITRE ATT&CK Framework.
 
-### Skills Learned 📈
+### 📈 Skills Learned 
 
 - Active Directory Administration
 - Windows Security Monitoring
@@ -24,7 +24,7 @@ The environment combines Active Directory, Windows endpoints, Kali Linux, Sysmon
 - Virtualization
 - Security Operations
 
-### ⚙️ Technologies Used
+### ⚙️ Technologies/Tools Used
 
 ## Infrastructure
 
