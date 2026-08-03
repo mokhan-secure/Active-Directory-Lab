@@ -1,5 +1,5 @@
 # Active Directory Lab
-End-to-end SOC automation lab integrating Wazuh SIEM, Shuffle SOAR, VirusTotal, and TheHive for automated threat detection, IOC enrichment, incident response, and case management.
+A cloud-enabled Security Operations Center (SOC) lab built to simulate enterprise attack detection, incident response, and threat hunting using Splunk Enterprise, Active Directory, Sysmon, Atomic Red Team, Kali Linux, and Windows.
 
 # Overview
 This project demonstrates the design and implementation of a complete Blue Team detection lab capable of collecting endpoint telemetry, simulating cyber attacks, and detecting malicious activity using Splunk Enterprise.
