@@ -1,13 +1,55 @@
-# SOC-Automation-Lab
+# Active Directory Lab
 End-to-end SOC automation lab integrating Wazuh SIEM, Shuffle SOAR, VirusTotal, and TheHive for automated threat detection, IOC enrichment, incident response, and case management.
 
 # Overview
-This project demonstrates a fully automated Security Operations Center (SOC) built using enterprise security tools. The platform automatically detects security events, enriches Indicators of Compromise (IOCs), creates incident cases, notifies analysts, and supports response automation.
+This project demonstrates the design and implementation of a complete Blue Team detection lab capable of collecting endpoint telemetry, simulating cyber attacks, and detecting malicious activity using Splunk Enterprise.
 
-### Skills Learned
+The environment combines Active Directory, Windows endpoints, Kali Linux, Sysmon, Splunk Universal Forwarders, and Atomic Red Team to emulate common adversary techniques from the MITRE ATT&CK Framework.
 
+### Skills Learned 📈
 
-### Tools Used
+- Active Directory Administration
+- Windows Security Monitoring
+- Splunk SIEM
+- Endpoint Telemetry
+- Sysmon Configuration
+- Threat Detection
+- Incident Investigation
+- Log Analysis
+- Detection Engineering
+- MITRE ATT&CK
+- Windows Event Logging
+- PowerShell
+- Linux Administration
+- Virtualization
+- Security Operations
+
+### ⚙️ Technologies Used
+
+## Infrastructure
+
+- VirtualBox
+- Windows Server 2016
+- Windows 10
+- Kali Linux
+- Ubuntu Server
+
+## Security
+
+- Splunk Enterprise
+- Splunk Universal Forwarder
+- Sysmon
+- Atomic Red Team
+- Hydra
+- Crowbar
+- PowerShell
+
+## Networking
+
+- Active Directory
+- DNS
+- RDP
+- NAT Network
 
 
 ## Steps
